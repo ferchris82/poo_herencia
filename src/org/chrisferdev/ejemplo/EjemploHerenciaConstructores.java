@@ -20,7 +20,7 @@ public class EjemploHerenciaConstructores {
         alumnoInt.setNotaCastellano(6.2);
         alumnoInt.setNotaHistoria(5.8);
         alumnoInt.setNotaMatematica(6.5);
-        alumno.setEmail("peter@correo.com");
+        alumnoInt.setEmail("peter@correo.com");
 
         System.out.println("====== Creando la instancia de la clase de Profesor =======");
         Profesor profesor = new Profesor("Luci", "Perez", "Matemáticas");
